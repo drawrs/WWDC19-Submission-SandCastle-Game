@@ -90,7 +90,7 @@ class MyViewController: UIViewController {
 
     @objc func buttonPlayTapped(_ sender: UIButton){
         playTouchSound()
-        print("Let's Play The Game!")
+        //print("Let's Play The Game!")
         let vc = Tutorial()
         navigationController?.pushViewController(vc, animated: true)
     }
