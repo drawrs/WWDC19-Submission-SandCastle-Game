@@ -1,7 +1,7 @@
-# WWDC19-Submission-SandCastle-Game
-
+# WWDC19 Scholarship Submission - Sand Castle [SUBMITTED]
+Demo: https://www.youtube.com/watch?v=SVYPdaOCv_4
+### Third party resource used:
 Library and source code:
-
 - DCExplosion by Tangdixi (https://bit.ly/2YlE4Tc), this is an open source library to provide an explosive effect to the view. I use this library because it can represent collapsed sand. I made several modification & update deprecated code.
 
 Sound effects:
@@ -13,6 +13,5 @@ Sound effects:
 - Touch sound by Joshua Wisjnu, he is my friend from the apple academy in Indonesia. We are in the same team at mini challenge 2. We create a game to teach kids about tempo. because this touch sound is awesome so I ask him to use this sound. He created this sound using Garageband.
 - And the last one, I captured the image of WWDC 2019 from Apple WWDC website developer.apple.com/wwdc19 for the closing screen. It’s motivated me and I hope I can meet with other scholarship recipients from over the world!
 
-Image or Graphic:
-
-I’m not a designer actually 😅, I’m a coder. But I read carefully all of the WWDC terms and conditions, then I found, this is an “individual work” not a “group work” that’s why I can’t ask people to help me. So I learned how to use Sketch on my Macbook and Voila! I created every image asset by my self!
+Images or Graphic:
+- I’m not a designer actually 😅, I’m a coder. But I read carefully all of the terms and conditions, then I found, this is an “individual work” not a “group work” that’s why I can’t ask people to help me. So I learned how to use Sketch on my Macbook and Voila! I created every image asset by my self!
