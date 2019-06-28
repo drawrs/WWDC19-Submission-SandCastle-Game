@@ -1,4 +1,4 @@
-# WWDC19 Scholarship Submission - Sand Castle [SUBMITTED]
+# WWDC19 Scholarship Submission - Sand Castle [ACCEPTED]
 Demo: https://www.youtube.com/watch?v=SVYPdaOCv_4
 ### Third party resource used:
 Library and source code:
